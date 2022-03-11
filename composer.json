@@ -1,0 +1,17 @@
+{
+    "name": "papi/brief_mvc",
+    "description": "gestion des organisations",
+    "autoload": {
+        "psr-4": {
+            "Brief\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "papi18011998",
+            "email": "papapibrahima98@gmail.com"
+        }
+    ],
+    "require-dev": {
+    }
+}
